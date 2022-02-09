@@ -1,0 +1,5 @@
+entrenador principal
+entrenador ayudante
+entrenador de porteros
+----------------------------
+entrenador de juveniles
