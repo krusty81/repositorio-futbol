@@ -1,3 +1,4 @@
 medico principal
 medico suplente
 fisioterapeuta
+psicólogo
