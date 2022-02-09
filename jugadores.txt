@@ -1,0 +1,11 @@
+portero
+defensa1
+defensa2
+defensa3
+defensa4
+centrocampista1
+centrocampista2
+centrocampista3
+centrocampista4
+delantero1
+delantero2
