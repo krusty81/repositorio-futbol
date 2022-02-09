@@ -9,3 +9,8 @@ centrocampista3
 centrocampista4
 delantero1
 delantero2
+--------------------
+portero suplente
+defensa suplente
+centrocampista suplente
+delantero suplente
